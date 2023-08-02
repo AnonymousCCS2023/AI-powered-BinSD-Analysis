@@ -3,7 +3,7 @@
 In this paper, we perform a systematic evaluation of the state-of-the-art AI-powered binary code similarity detection (BinSD) approaches on both general binary diffing and two representative downstream applications. According to the findings and implications of our study, we shed light on several key real-world research questions in this problem domain. Specifically, we find that currently, due to the significant binary changes across architectures and optimization levels, the problem of BinSD has not been well addressed. Moreover, the use of some embedding neural networks and evaluation methodologies is questionable and still needs further improvements. Based on the comprehensive experimental results and in-depth analysis, we provide several promising future directions for advancing BinSD. We hope the release of our datasets, benchmarks and implementation can facilitate the development of BinSD.
 
 # Docker images
-The docker images can be downloaded from here: [1](https://hub.docker.com/r/spirit0/binsd_1) and [2](https://hub.docker.com/r/spirit0/binsd_2)
+The docker images can be downloaded from here: [image1](https://hub.docker.com/r/spirit0/binsd_1) and [image2](https://hub.docker.com/r/spirit0/binsd_2).
 
 # How to use
 
